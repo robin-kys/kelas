@@ -1,0 +1,45 @@
+    * {
+        margin: 0px;
+    }
+    .wrapper{
+        padding: 20px;
+        background-color: gray;
+    }
+    .baris-1{
+        background-color: blue;
+        padding: 50px;
+    }
+    .baris-2{
+        padding: 50px;
+        background-color: blue;
+        margin-top: 20px;
+        display: flex;
+        gap: 10px;
+
+    }
+    .baris-2 img{
+        width: 100%;
+    }
+    .baris-3{
+        margin-top: 20px;
+        background-color: blue;
+        padding: 50px;
+    }
+    .baris-4{
+        margin-top: 20px;
+        background-color: blue;
+        padding: 50px;
+    }
+    .baris-5{
+        margin-top: 20px;
+        background-color: blue;
+        padding: 50px;
+    }
+    .baris-2-kolom-1,
+    .baris-2-kolom-2,
+    .baris-2-kolom-3,
+    .baris-2-kolom-4,
+    .baris-2-kolom-5{
+        width: 20%;
+        height: 250px;
+    }

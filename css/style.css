@@ -1,0 +1,16 @@
+div {
+    margin: 300px;
+}
+
+.warna {
+    color: red;
+}
+.ukuran {
+    font-size: 50px;
+}
+#jenis{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#model{
+    font-weight: bold;
+}
